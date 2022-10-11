@@ -4,6 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
+/package-lock.json
+/.idea
+/.yarnrc
+/.yarn
+/yarn.lock
 
 # testing
 /coverage
